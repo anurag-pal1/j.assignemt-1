@@ -1,0 +1,20 @@
+Ans:1 A computer is an electronic device that stores and processes data, often in binary form, in accordance with commands from a variable
+      programme. Example: Mobile phone,Laptop,etc.
+
+Ans:2 RAM stands for Random Access Memory. It is a type of primary memory refers to all computer memory types that the processor can access directly
+      over the data bus. It is also known as primary storage(Main Memory).
+
+Ans:3 Data is stored in hard disc or secondary memory or storage.
+
+Ans:4 Keyboard.
+
+Ans:5 The output device displays the result of the processing of raw data that is entered in the computer through an input device. 
+      Example: Monitor, Printer,etc.
+
+Ans:6 Mouse.
+
+Ans:7 Binary Language.
+
+Ans:8 Input device enables the user to send data, information, or control signals to a computer. 
+      The Central Processing Unit (CPU) of a computer receives the input and processes it to produce the output.
+Example: Keboard,Mouse,etc.
